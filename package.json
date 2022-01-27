@@ -1,0 +1,14 @@
+{
+  "name": "protocol-converter",
+  "version": "1.0.0",
+  "description": "for converting axis protocol into panasonic and Pelco-p protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M.A.N.",
+  "license": "ISC",
+  "dependencies": {
+    "portastic": "^1.0.1"
+  }
+}
