@@ -2,7 +2,7 @@
 Panasonic PTZ to PELCO-P protocol converter
 
 
-This is a Free & Opensource project for everyone who love procotol undrestanding by me.
+This is a Free & Opensource project for everyone who love protocol undrestanding by me.
 
 old panasonic speed dom camera use an old protocol for thier PTZ commands so you can not add them 
 to modern CMS like Genetec , I write a protocol converter on Nodejs to change the panasonic PTZ protocol 
